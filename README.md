@@ -1,9 +1,8 @@
 # Hi, I'm Sanjay Chaudhari 👋
 
-Cloud & Software Consultant with 14+ years of experience in AWS, Azure, full-stack development, and DevOps. Specializing in modernizing Microsoft-based apps, leading teams, and delivering scalable cloud-native solutions. Passionate about reliable, business-driven technology. Based in Pune, India.
+🚀 Cloud & Software Consultant | 14+ years in IT | AWS & Azure Specialist | Full-Stack Engineer | Agentic AI Learner 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay-chaudhari&theme=radical&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-chaudhari&layout=compact&theme=radical)
+Cloud & Software Consultant with 14+ years of experience in AWS, Azure, full-stack development, and DevOps. Specializing in modernizing Microsoft-based apps, leading teams, and delivering scalable cloud-native solutions. Passionate about reliable, business-driven technology. Based in Pune, India.
 
 ## 🛠 Technical Skills
 
