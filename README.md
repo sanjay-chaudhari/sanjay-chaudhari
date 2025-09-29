@@ -42,35 +42,6 @@ Cloud & Software Consultant with 14+ years of experience in AWS, Azure, full-sta
 - Microsoft Azure Architect Technologies (AZ-303)
 - Azure Fundamentals (AZ-900)
 
-## 💼 Professional Experience
-
-### Application Development Associate Manager @ Accenture (Sep 2017 – Present)
-- Led modernization projects using AWS & Azure.
-- Designed serverless workloads with AWS Lambda, API Gateway, and Azure Functions.
-- Implemented CI/CD pipelines using Azure DevOps & GitLab.
-- Migrated legacy .NET applications to cloud-native microservices.
-- Ensured observability with AWS CloudWatch, X-Ray, and Azure Monitor.
-- Managed distributed teams, client communications, and delivery quality.
-
-### Sr. Software Developer @ Decos (Oct 2015 – Aug 2017)
-- Built government-facing citizen communication system using AngularJS & Azure.
-- Integrated with NHibernate, Azure SQL, and external APIs.
-- Designed and implemented REST APIs with .NET Web API.
-
-### System Analyst @ Nihilent (May 2014 – Sep 2015)
-- Developed insurance domain applications using ASP.NET MVC & WCF.
-- Implemented SQL Server stored procedures and Crystal Reports.
-- Contributed to design, client discussions, and Agile practices.
-
-### Software Engineer @ Custom-Soft (Aug 2012 – Apr 2014)
-- Built accounting & training software systems.
-- Designed Web Forms & MVC apps with SQL Server/MySQL backends.
-- Created client-side functionalities with JQuery & Telerik.
-
-### Software Developer @ Cinetech India (Jul 2011 – Aug 2012)
-- Built transport & job scheduling applications using .NET.
-- Implemented SQL Server-based reporting & scheduling jobs.
-- Designed interactive UI using ASP.NET Web Forms & JavaScript.
 
 ## ✍️ Blogs, Talks & Contributions
 
