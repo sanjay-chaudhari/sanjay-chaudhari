@@ -72,10 +72,42 @@ Cloud & Software Consultant with 14+ years of experience in AWS, Azure, full-sta
 - Implemented SQL Server-based reporting & scheduling jobs.
 - Designed interactive UI using ASP.NET Web Forms & JavaScript.
 
-## 🚀 Projects & Contributions
+## ✍️ Blogs, Talks & Contributions
 
-- **[Sample LocalStack AWS DevKit (.NET)](https://github.com/aws-samples/sample-localstack-aws-devkit-dotnet)**: Reference implementation for local AWS development with S3, SQS, DynamoDB. (C#, AWS LocalStack)
+Here are some of my technical writings, serverless patterns, open-source contributions, and sessions:
 
+### 📚 Blogs
+- [Create a CI/CD pipeline for .NET Lambda functions with AWS CDK Pipelines](https://aws.amazon.com/blogs/devops/create-a-ci-cd-pipeline-for-net-lambda-functions-with-aws-cdk-pipelines/)
+- [Modernizing a WCF service to CoreWCF: Lessons learned](https://aws.amazon.com/blogs/modernizing-with-aws/wcf-service-to-corewcf)
+- [Implement fine-grained authorization in your .NET API using Amazon Cognito Custom Scopes](https://aws.amazon.com/blogs/dotnet/implement-fine-grained-authorization-in-your-net-api-using-amazon-cognito-custom-scopes/)
+- [Build DR ready .NET Web APIs on AWS](https://aws.amazon.com/blogs/dotnet/build-dr-ready-net-web-apis-on-aws/)
+- [Building a GraphQL API with AWS AppSync Using Direct Lambda Resolvers in .NET](https://aws.amazon.com/blogs/dotnet/building-a-graphql-api-with-aws-appsync-using-direct-lambda-resolvers-in-net/)
+
+---
+
+### ⚡ Serverless Patterns
+- [EventBridge Scheduler → Lambda every 5 minutes (CDK .NET)](https://serverlessland.com/patterns/event-bridge-scheduler-lambda-cdk-dotnet)  
+- [AWS App Runner Service with .NET Web API (CDK .NET)](https://serverlessland.com/patterns/apprunner-cdk-dotnet)
+
+---
+
+### 🤝 Open Source Contributions
+- [Reference Implementation – Modernizing WCF to CoreWCF](https://github.com/aws-samples/wcf-to-corewcf)  
+- [Updated .NET Core wrapper with APIs for Amazon SQS Dead-Letter Queue Redrive](https://github.com/aws-samples/aws-services-netcore-wrappers/pull/6)  
+- [LocalStack AWS Dev Kit for .NET](https://gitlab.aws.dev/sanjaycz/localstack-aws-devkit-dotnet)  
+- [AWS AppSync with .NET Lambda Direct Resolvers](https://github.com/aws-samples/sample-appsync-dotnet-lambda-resolvers)
+
+---
+
+### 🎤 Sessions
+- [.NET Enterprise Developer Day EMEA 2023 – Hosted by AWS](https://hopin.com/events/net-enterprise-developer-day-emea-2023-hosted-by-amazon-web-services)
+
+---
+
+### 🎓 Learning & Digital Badges
+- 🏅 .NET Workloads on AWS Lambda badge  
+- 🏅 .NET Workloads on ECS and Fargate badge  
+- 🏅 AWS Serverless Learning Plan  
 
 ## 📫 Get in Touch
 - Email: sanjay_chaudhari@hotmail.com
